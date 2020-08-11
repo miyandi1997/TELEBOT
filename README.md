@@ -1,0 +1,2 @@
+# TELEBOT
+kumpulan bot sederhana
